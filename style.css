@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration:none;
+}
+
+body {
+	margin:50px 0px; 
+	padding:0px;
+	text-align:center;
+	}
+	
+table{
+	align:center;
+	margin:0 auto;
+}
+
+ul { 
+	list-style-type: none; 
+	font-size: 13px;
+	text-align:left;
+	margin:auto auto auto 45%;
+	}
+
+#data {
+	width:500 px;
+	margin:50px auto; padding:0px;
+	}
+	
+#pagetitle {
+	font-size:28px;
+	color:#990099;
+}
+	
+	
+#output {
+	font-size:24px;
+}
+
